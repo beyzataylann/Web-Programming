@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd" id="WebApp_ID" version="5.0">
+  <display-name>shoppingcar</display-name>
+  <welcome-file-list>
+    <welcome-file>/shoppingcar/src/main/java/coreservlets/Catalog.java</welcome-file>
+    <welcome-file>Checkout.html</welcome-file>
+    <welcome-file>ItemOrder.java</welcome-file>
+    <welcome-file>CatalogItem.java</welcome-file>
+    <welcome-file>CatalogPage.java</welcome-file>
+    <welcome-file>Main.java</welcome-file>
+    <welcome-file>OrderPage.java</welcome-file>
+    <welcome-file>ShoppingCart.java</welcome-file>
+    <welcome-file>TechBooksPage.java</welcome-file>
+    <welcome-file>KidsBooksPage.java</welcome-file>
+  </welcome-file-list>
+</web-app>
